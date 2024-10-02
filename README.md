@@ -8,7 +8,7 @@ A simple yet engaging Snake Game built using Python's Tkinter library. The game 
 - Food items to increase the snake's length and score.
 - Poison that decreases the score and limits the player's chances(after taking 3 poison Game over).
 - Border wrapping to allow the snake to travel through edges of the screen.
-- Dynamic speed adjustment based on the player's score.
+- Dynamic speed adjustment based on the player's score(every 3 scores).
 
 ## Controls
 
